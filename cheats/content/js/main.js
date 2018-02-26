@@ -1,1 +1,0 @@
-$(document).ready(function(){$('[data-toggle="tooltip"]').tooltip();});$(document).delegate('*[data-toggle="lightbox"]','click',function(event){event.preventDefault();$(this).ekkoLightbox();});
